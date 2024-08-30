@@ -18,29 +18,8 @@ I am a self motivated and versatile individual, always eager to take on new chal
 -   **Responsive Design**: Optimized for both desktop and mobile use.
 
 
-### Server-Side Architecture Overview
-
-#### 1. Environment Configuration (.env File)
-
--   Purpose: Contains sensitive configuration and credentials.
+### Frontend Architecture Overview
     
--   Contents:
-    
-
--   MONGO_URI: MongoDB connection string.
-    
--   JWT_SECRET: Secret key for JWT token signing.
-    
--   ADMIN_SECRET_KEY: Key for admin-related operations.
-    
--   NODE_ENV: Environment mode (e.g., DEVELOPMENT, PRODUCTION).
-    
--   CLIENT_URL: URL for the frontend application.
-    
--   CLOUDINARY_CLOUD_NAME, CLOUDINARY_API_KEY, CLOUDINARY_API_SECRET: Credentials for Cloudinary file uploads.
-    
-
-#### 2. Frontend  
 
 -  Routing and Authentication:
 
